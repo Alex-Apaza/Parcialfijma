@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+}
+body{
+    font-optical-sizing: auto;
+}
+.principal{
+    background-color: slategray;
+    width: 200px;
+    margin: 87px auto 40px;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 10px;
+}
+.order{
+    display:flex;
+    flex-direction: row;
+}
+.icon{
+    margin-left:60px ;
+    background-color: rgba(255, 150, 85, 0.4);
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    padding:30px ;
+    align-items: center;
+    text-align: center;
+}
+.icon img{
+    width: 30px;
+    height: 30px;
+}
+.porcentaje{
+    color: green;
+
+}
+span{
+    font-size: 14px;
+}
