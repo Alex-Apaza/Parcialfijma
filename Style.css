@@ -7,10 +7,10 @@ body{
     font-optical-sizing: auto;
 }
 .principal{
-    background-color: slategray;
+    background-color: rgb(70, 75, 79);
     width: 200px;
     margin: 87px auto 40px;
-    border-radius: 8px;
+    
     overflow: hidden;
     padding: 10px;
 }
